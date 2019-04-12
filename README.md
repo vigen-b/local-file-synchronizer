@@ -9,7 +9,7 @@ git clone https://github.com/vigen-b/local-file-synchronizer.git
 ## Run
 
 ``` bash
-cd local-synchronizer
+cd local-file-synchronizer
 FILE_PATH=/path/to/file node index.js
 ```
 
