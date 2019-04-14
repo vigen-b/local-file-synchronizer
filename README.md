@@ -1,16 +1,28 @@
 # Local File Synchronizer
 
+## NOTE: This project is not defined for production
+
 ## Install
 
 ```bash
 git clone https://github.com/vigen-b/local-file-synchronizer.git
+cd local-synchronizer
+npm install
 ```
+
+## Configure
+
+``` bash
+cp app/config.example.json app/config.json
+```
+
+And update config file.
 
 ## Run
 
 ``` bash
-cd local-synchronizer
-FILE_PATH=/path/to/file node index.js
+
+node index.js
 ```
 
 Now you can download file from your local network.  
