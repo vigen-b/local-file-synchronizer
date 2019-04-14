@@ -1,0 +1,6 @@
+{
+  "port": 3000,
+  "shareable_file": "/absolute/path/to/shareable/file",
+  "username": "username",
+  "secret": "some_crazy_secret"
+}

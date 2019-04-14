@@ -1,0 +1,27 @@
+{
+  "name": "local-file-synchronizer",
+  "version": "0.1.0",
+  "description": "Helps to synchronize files in local network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vigen-b/local-file-synchronizer.git"
+  },
+  "keywords": [
+    "express",
+    "local-file-sync"
+  ],
+  "author": "Vigen Baghdasryan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vigen-b/local-file-synchronizer/issues"
+  },
+  "homepage": "https://github.com/vigen-b/local-file-synchronizer#readme",
+  "dependencies": {
+    "basic-auth": "^2.0.1",
+    "tsscmp": "^1.0.6"
+  }
+}
