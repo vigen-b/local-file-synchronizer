@@ -1,12 +1,12 @@
 # Local File Synchronizer
 
-## NOTE: This project is not defined for production
+## NOTE: This project is not designed for production
 
 ## Install
 
 ```bash
 git clone https://github.com/vigen-b/local-file-synchronizer.git
-cd local-synchronizer
+cd local-file-synchronizer
 npm install
 ```
 
@@ -21,7 +21,6 @@ And update config file.
 ## Run
 
 ``` bash
-
 node index.js
 ```
 
